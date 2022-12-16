@@ -1,6 +1,9 @@
 # Calculator API
 This is a simple calculator API that can be used to perform basic arithmetic operations.
 
+# Context
+This project was made for the Web Fullstack Course of my Master's Degree in Computer Science at Ynov Campus.
+
 ## Usage
 Install the dependencies and devDependencies and start the server.
 
