@@ -24,3 +24,45 @@ $ npm run dev
         "result": 6
     }
 `
+
+## Subtraction
+### Request
+`POST /subtract`
+
+    {
+        "values": [1, 2, 3]
+    }
+
+### Response
+    {
+        "result": -4
+    }
+`
+
+## Multiplication
+### Request
+`POST /multiply`
+
+    {
+        "values": [1, 2, 3]
+    }
+
+### Response
+    {
+        "result": 6
+    }
+`
+
+## Division
+### Request
+`POST /divide`
+
+    {
+        "values": [1, 2, 3]
+    }
+
+### Response
+    {
+        "result": 0.16666666666666666
+    }
+`
